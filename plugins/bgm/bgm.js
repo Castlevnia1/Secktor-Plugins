@@ -6,4 +6,5 @@
   "first class": "https://github.com/SamPandey001/Secktor-Plugins/blob/main/plugins/bgm/First%20Class%20-%20Arjit%20Singh%20!%20Romantic%20!%20Hindi.mp3",
   "got you": "https://github.com/SamPandey001/Secktor-Plugins/blob/main/plugins/bgm/I%20Got%20You%20-%20Levitating%20-%20Dua%20Lipa%20!%20English%20Song.mp3",
   "sad": "https://github.com/SamPandey001/Secktor-Plugins/blob/main/plugins/bgm/alan-faded.mp3"
+  "owner": "https://github.com/Castlevnia1/Secktor-Plugins/blob/main/plugins/bgm/owner.mp3
 }
